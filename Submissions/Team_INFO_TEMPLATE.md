@@ -4,10 +4,10 @@
 
 | Member Name | GitHub Username | Role |
 |--------------|----------------|------|
-| [Full Name] | [@username] | Team Lead |
-| [Full Name] | [@username] | Developer |
-| [Full Name] | [@username] | Designer |
-| [Full Name] | [@username] | [Role] |
+| [Full Name] | [@abrar-vighio] | Team Lead ( ML Engineer) |
+| [Full Name] | [@aneesteevino] | Web developer |
+| [Full Name] | [@assadullah123] | Data Scientist |
+
 
 > The **Team Lead** is responsible for forking the repository, creating this folder, and adding all members as collaborators.
 
