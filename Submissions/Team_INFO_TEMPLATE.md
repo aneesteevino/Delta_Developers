@@ -4,10 +4,10 @@
 
 | Member Name | GitHub Username | Role |
 |--------------|----------------|------|
-| [Full Name] | [@abrar-vighio] | Team Lead ( ML Engineer) |
-| [Full Name] | [@aneesteevino] | Web developer |
-| [Full Name] | [@assadullah123] | Data Scientist |
-
+| [Full Name] | [@username] | Team Lead |
+| [Full Name] | [@username] | Developer |
+| [Full Name] | [@username] | Designer |
+| [Full Name] | [@username] | [Role] |
 
 > The **Team Lead** is responsible for forking the repository, creating this folder, and adding all members as collaborators.
 
@@ -56,3 +56,4 @@ Other Tools: GitHub, Figma
 ✅ 3 project folders created  
 ✅ All members added as collaborators  
 ✅ PR made to `submission` branch before deadline
+
